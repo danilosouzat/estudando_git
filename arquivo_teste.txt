@@ -1,3 +1,2 @@
-Testando revetendo git push:
-Esse commit é pra simular a reversão de um push que foi feito sem querer.
+Testando revetendo git push
 
